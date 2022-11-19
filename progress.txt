@@ -1,0 +1,6 @@
+-- the only problem with the 17_dec code is that the DMOM is coming out to be infinte and the number density is continously increasing.
+
+--until 16_dec , i was not able to get a u-vel and TTx of the particles which i am able to find now. 
+
+-- on 25th dec , the code is linearized , and i will attempt to parallelize the molecule_move_1d func today.
+

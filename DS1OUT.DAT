@@ -1,0 +1,29 @@
+
+Interval 2 Time 1.52773e-007 with 11 samples from 0
+Total simulated molecules = 999973
+Species 1 total = 999973
+Total molecule moves   = 49998651
+Total collision events = 381300
+Species dependent collision numbers in current sample
+762600	
+Computation time 7.347seconds
+Collision events per second 51898.7
+Molecule moves per secon 6.80532e+006
+Overall time step 3.05545e-009
+Molecules per collision cell 49.9986
+Mean cell time ratio 1
+Mean value of cross-section and relative speed 1.45829e-015
+Mean half collision cell time step 1.52773e-009
+Coll. rate ratio to equilib 1.08127
+
+
+
+Flowfield properties 
+11 Samples
+Overall gas
+Cell	x coord.	Sample	Number Dens.	 Density	u velocity	v velocity	w velocity	Trans. Temp.	Rot. Temp.	Vib. Temp. 	El. Temp. 	Temperature 	Mach no. 	Mols/cell	m.c.t   	m.f.p	mcs/mfp	speed 	Pressure 	TTX 	TTY	TTZ	Species Fractions 
+1 	0.05	1.09997e+007	9.99971e+021	0.000464987	0.000580163	-0.000433613	-0.00167127	0.00394994	1958.54	3000	3000	 783.419 	3.19186e-006 	999973 	2.00326e-007 	3.46194e-007 	18.4114 	0.00182147 	0.000545335 	0.00124695 	6.33244e-010 	0.0106029 	
+Individual molecular species
+Species 1
+Cell	 x coord.  	    Sample  	     Percentage 	  Species TTx  	 Species TTy 	 Species TTz 	 Trans. Temp.	  Rot. Temp.	  Vib. Temp. 	  Spec. Temp  	u Diff. Vel.	 v Diff. Vel.	 w. Diff. Vel.	 Elec. Temp.
+1 0.05 	1.09997e+007	 1	 0.00124695	 0.000827153	 0.00977571	 0.00394994	 1958.54	 0	 783.419	 0	 -5.42101e-020	 0	 0	 

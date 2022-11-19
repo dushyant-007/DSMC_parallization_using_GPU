@@ -1,0 +1,7 @@
+Data summary for program DSMC
+The approximate number of megabytes for the calculation is100
+3
+Ideal nitrogen
+The gas properties are:- 
+The stream number density is 1e+022
+The stream temperature is 3000
